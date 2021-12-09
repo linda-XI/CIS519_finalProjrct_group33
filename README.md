@@ -4,7 +4,7 @@
 >Project Mentor TA: Benedict Florance Arockiaraj
 ## How to run
 - the excutable file is `FaceClusteringDemo.ipynb` in `FaceClusteringDemo`
-- please follow the command line in `FaceClusteringDemo.ipynb` to see output
+- please follow the comment line in `FaceClusteringDemo.ipynb` to see output
  
 
 
